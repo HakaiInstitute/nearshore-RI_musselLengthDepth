@@ -1,1 +1,15 @@
-variable,long_name,units,standard_name,comment
+table,variable,category,units,description
+mussel_length_depth-surveys.csv,date,date,yyyy-mm-dd,Date on which the survey was conducted
+mussel_length_depth-surveys.csv,site,character,NA,Rocky intertidal site where survey was conducted
+mussel_length_depth-surveys.csv,observer,character,NA,The individual(s) who conducted the survey
+mussel_length_depth-surveys.csv,measurement_type,character,"Mussel length, Mussel depth",Type of measurement: mussel lengths or bed depths
+mussel_length_depth-surveys.csv,plot,numeric,"1,2,3,4,5",Permanent plot areas (marked by bolts) defining five plots. Each plot area measures 75cm x 50 cm
+mussel_length_depth-surveys.csv,monolayer,character,"Y, N",Whether or not the plot contained a single layer of mussels (monolayer) or multiple layers.
+mussel_length_depth-surveys.csv,plot_location,numeric,"1,2,3,4,5",One of five 20cmx20cm locations within the plot area wherein length/depth measurements were taken (see protocol)  
+mussel_length_depth-surveys.csv,bed_depth,numeric,mm,"The depth of the mussel bed at a given plot_location, to the nearest 10mm"
+mussel_length_depth-surveys.csv,mussel_length,numeric,mm,"Size class of mussel lengths, in 10mm bins"
+mussel_length_depth-surveys.csv,top,numeric,NA,"Number of measured mussels in the top layer, for a given size class "
+mussel_length_depth-surveys.csv,under,numeric,NA,"Number of measured mussels in understory layers, for a given size class "
+mussel_length_depth-surveys.csv,entered_by,character,NA,The individual(s) who entered the data into the spreadsheet
+mussel_length_depth-surveys.csv,checked_by,character,NA,The individual(s) who quality controlled the data
+mussel_length_depth-surveys.csv,notes,character,NA,Records anything of note about a given observation

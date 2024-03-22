@@ -1,25 +1,28 @@
 # Changelog
-
 All notable changes to this project will be documented in this file.
 
-## [0.0.1] - yyyy-mm-dd
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning]
+(https://semver.org/spec/v2.0.0.html).
 
-Summary
+## Unreleased
 
-### Added
-
-*
-* 
-*
-
-### Fixed
-
-* 
-
+## [3.1.0] - 2023-01-26
 ### Changed
+- Updated survey data to November 2023
 
-*
+## [3.0.0] - 2023-01-06
+### Changed
+- Updated survey data to November 2022
 
-### Removed
+## [2.0.0] - 2022-01-11
+### Changed
+- Updated survey data to November 2021
 
-*
+## [1.0.0] - 2020-03-17
+### Added
+- Creative Commons license
+- README file
+- Overall Rocky Intertidal protocol
+- Data Dictionary
+- Mussel Length & Bed Depth survey data (2016-2019)
