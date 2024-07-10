@@ -13,9 +13,9 @@ In light of the effort required to create data packages, we request that in addi
 
 Reference Citation
 ```
-Froese, T., Gehman, A., Hessing-Lewis, M., and Sadlier-Brown, G. (2023). 
-Mussel length & bed depth survey data from BC Central Coast 2016-2023. 
-Hakai Institute dataset. V3.1.0 [access date]
+Froese, T., Sadlier-Brown, G., Hessing-Lewis, M., Gehman, A. (2023).
+Mussel Dynamics: Length & Bed Depth - BC Central Coast (v3.1.0) 
+[Data set]. https://doi.org/10.21966/30m7-qc49
 ```
 
 ## Summary
