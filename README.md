@@ -13,7 +13,7 @@ In light of the effort required to create data packages, we request that in addi
 
 Reference Citation
 ```
-Froese, T., Sadlier-Brown, G., Hessing-Lewis, M., Gehman, A. (2023).
+Froese, T., Sadlier-Brown, G., Hessing-Lewis, M., Gehman, A. (2024).
 Mussel Dynamics: Length & Bed Depth - BC Central Coast (v3.1.0) 
 [Data set]. https://doi.org/10.21966/30m7-qc49
 ```
